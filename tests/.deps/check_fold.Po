@@ -1,0 +1,3 @@
+check_fold.o: check_fold.c /usr/include/stdc-predef.h
+
+/usr/include/stdc-predef.h:
